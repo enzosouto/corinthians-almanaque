@@ -1,0 +1,58 @@
+[
+  {
+    "competicaoSlug": "brasileiro",
+    "nome": "Campeonato Brasileiro",
+    "categoria": "nacional",
+    "anos": [1990, 1998, 1999, 2005, 2011, 2015, 2017]
+  },
+  {
+    "competicaoSlug": "libertadores",
+    "nome": "Copa Libertadores da América",
+    "categoria": "continental",
+    "anos": [2012]
+  },
+  {
+    "competicaoSlug": "recopa-sul-americana",
+    "nome": "Recopa Sul-Americana",
+    "categoria": "continental",
+    "anos": [2013],
+    "observacoes": {
+      "2013": "Vencendo o São Paulo (Clássico Majestoso), o Corinthians completou a Tríplice Coroa Internacional (Libertadores, Mundial e Recopa) de forma invicta."
+    }
+  },
+  {
+    "competicaoSlug": "mundial",
+    "nome": "Mundial de Clubes",
+    "categoria": "mundial",
+    "anos": [2000, 2012]
+  },
+  {
+    "competicaoSlug": "copa-do-brasil",
+    "nome": "Copa do Brasil",
+    "categoria": "nacional",
+    "anos": [1995, 2002, 2009, 2025]
+  },
+  {
+    "competicaoSlug": "supercopa-do-brasil",
+    "nome": "Supercopa do Brasil",
+    "categoria": "nacional",
+    "anos": [1991, 2026],
+    "observacoes": {
+      "2026": "Título conquistado sobre o Flamengo, na Arena BRB Mané Garrincha, em Brasília."
+    }
+  },
+  {
+    "competicaoSlug": "paulista",
+    "nome": "Campeonato Paulista",
+    "categoria": "estadual",
+    "anos": [
+      1914, 1916, 1922, 1923, 1924, 1928, 1929, 1930, 1937, 1938, 1939, 1941, 1951, 1952, 1954, 1977,
+      1979, 1982, 1983, 1988, 1995, 1997, 1999, 2001, 2003, 2009, 2013, 2017, 2018, 2019, 2025
+    ],
+    "observacoes": {
+      "1929": "Título conquistado de forma invicta pelo lendário time apelidado de 'Bando de Loucos'.",
+      "1977": "Fim de um jejum de 22 anos sem títulos estaduais, celebrado com a maior festa já vista de uma torcida no futebol brasileiro, na Praça da Sé.",
+      "2025": "Título conquistado sobre o Palmeiras, encerrando um jejum estadual de seis anos desde 2019."
+    }
+  }
+]

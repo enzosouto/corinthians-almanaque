@@ -1,0 +1,90 @@
+[
+  {
+    "data": "2012",
+    "competicao": "Copa Libertadores da América — final, jogo de ida",
+    "adversario": "Boca Juniors",
+    "placarCorinthians": 1,
+    "placarAdversario": 1,
+    "resultado": "empate",
+    "local": "La Bombonera, Buenos Aires"
+  },
+  {
+    "data": "2012",
+    "competicao": "Copa Libertadores da América — final, jogo de volta",
+    "adversario": "Boca Juniors",
+    "placarCorinthians": 2,
+    "placarAdversario": 0,
+    "resultado": "vitoria",
+    "local": "Pacaembu, São Paulo",
+    "observacao": "Título inédito da Libertadores para o Corinthians."
+  },
+  {
+    "data": "2012",
+    "competicao": "Mundial de Clubes da FIFA — final",
+    "adversario": "Chelsea",
+    "placarCorinthians": 1,
+    "placarAdversario": 0,
+    "resultado": "vitoria",
+    "local": "Estádio Internacional de Yokohama, Japão",
+    "observacao": "Gol de Paolo Guerrero."
+  },
+  {
+    "data": "2000",
+    "competicao": "Mundial de Clubes da FIFA — final",
+    "adversario": "Vasco da Gama",
+    "placarCorinthians": 0,
+    "placarAdversario": 0,
+    "resultado": "vitoria",
+    "local": "Maracanã, Rio de Janeiro",
+    "observacao": "Corinthians campeão nos pênaltis, após empate sem gols no tempo normal."
+  },
+  {
+    "data": "2013",
+    "competicao": "Recopa Sul-Americana — final, jogo de ida",
+    "adversario": "São Paulo",
+    "placarCorinthians": 2,
+    "placarAdversario": 1,
+    "resultado": "vitoria",
+    "local": "Morumbi, São Paulo",
+    "observacao": "Gols de Guerrero e Renato Augusto."
+  },
+  {
+    "data": "2013",
+    "competicao": "Recopa Sul-Americana — final, jogo de volta",
+    "adversario": "São Paulo",
+    "placarCorinthians": 2,
+    "placarAdversario": 0,
+    "resultado": "vitoria",
+    "local": "Pacaembu, São Paulo",
+    "observacao": "Gols de Romarinho e Danilo. Placar agregado de 4 a 1 e título inédito da Recopa."
+  },
+  {
+    "data": "2025",
+    "competicao": "Copa do Brasil — final, jogo de ida",
+    "adversario": "Vasco da Gama",
+    "placarCorinthians": 0,
+    "placarAdversario": 0,
+    "resultado": "empate",
+    "local": "Neo Química Arena, São Paulo"
+  },
+  {
+    "data": "2025",
+    "competicao": "Copa do Brasil — final, jogo de volta",
+    "adversario": "Vasco da Gama",
+    "placarCorinthians": 2,
+    "placarAdversario": 1,
+    "resultado": "vitoria",
+    "local": "Maracanã, Rio de Janeiro",
+    "observacao": "Corinthians tetracampeão da Copa do Brasil."
+  },
+  {
+    "data": "2026",
+    "competicao": "Supercopa do Brasil — final",
+    "adversario": "Flamengo",
+    "placarCorinthians": 2,
+    "placarAdversario": 0,
+    "resultado": "vitoria",
+    "local": "Arena BRB Mané Garrincha, Brasília",
+    "observacao": "Gols de Gabriel Paulista e Yuri Alberto."
+  }
+]

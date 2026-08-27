@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "rivellino",
+    "nome": "Roberto Rivellino",
+    "posicao": "Meio-campo",
+    "periodo": "1965–1974",
+    "gols": 144,
+    "descricao": "Camisa 10 histórico, dono do célebre chute 'folha seca'. Um dos maiores craques da história do futebol brasileiro. Curiosamente, o Campeonato Paulista foi o único grande título que escapou de sua vitoriosa passagem pelo clube — algo que ele próprio dizia trocar por qualquer uma de suas conquistas individuais.",
+    "foto": "rivelino.jpg"
+  },
+  {
+    "slug": "ze-maria",
+    "nome": "Zé Maria",
+    "posicao": "Lateral-direito",
+    "periodo": "1970–1983",
+    "jogos": 598,
+    "titulos": ["Campeonato Paulista 1977", "Campeonato Paulista 1979", "Campeonato Paulista 1982", "Campeonato Paulista 1983"],
+    "descricao": "Considerado o maior lateral-direito da história do clube, com 598 jogos disputados em 13 temporadas. Apelidado de 'Super Zé', também integrou a Democracia Corinthiana e chegou a assumir o comando técnico da equipe em 1983.",
+    "foto": "ze_maria.jpeg"
+  },
+  {
+    "slug": "socrates",
+    "nome": "Sócrates",
+    "posicao": "Meio-campo",
+    "periodo": "1978–1984",
+    "jogos": 298,
+    "gols": 172,
+    "titulos": ["Campeonato Paulista 1979", "Campeonato Paulista 1982", "Campeonato Paulista 1983"],
+    "descricao": "Capitão e principal liderança da Democracia Corinthiana. Médico, filósofo e camisa 10, tornou-se um dos maiores símbolos culturais e políticos do futebol brasileiro.",
+    "foto": "socrates.jpeg"
+  },
+  {
+    "slug": "wladimir",
+    "nome": "Wladimir",
+    "posicao": "Lateral-esquerdo",
+    "periodo": "1972–1987",
+    "jogos": 805,
+    "titulos": ["Campeonato Paulista 1977", "Campeonato Paulista 1979", "Campeonato Paulista 1982", "Campeonato Paulista 1983"],
+    "descricao": "Recordista absoluto de jogos pelo Corinthians, com 805 partidas em duas passagens pelo clube. Um dos líderes da Democracia Corinthiana ao lado de Sócrates e Casagrande, também esteve em campo na quebra do jejum de 1977.",
+    "foto": "wladmir.jpeg"
+  },
+  {
+    "slug": "neto",
+    "nome": "Neto",
+    "posicao": "Atacante",
+    "periodo": "1989–1994 e 1997",
+    "titulos": ["Campeonato Brasileiro 1990", "Supercopa do Brasil 1991", "Campeonato Paulista 1997"],
+    "descricao": "Artilheiro habilidoso e figura popular entre a torcida, apelidado de 'Xodó da Fiel'. Principal nome da conquista do primeiro título brasileiro, em 1990, com passagens marcantes pelo clube em diferentes momentos de sua carreira.",
+    "foto": "neto.jpeg"
+  },
+  {
+    "slug": "marcelinho-carioca",
+    "nome": "Marcelinho Carioca",
+    "posicao": "Meio-campo",
+    "periodo": "1997–2002",
+    "titulos": ["Campeonato Paulista 1997", "Campeonato Paulista 1999", "Campeonato Brasileiro 1998", "Campeonato Brasileiro 1999", "Mundial de Clubes 2000", "Campeonato Paulista 2001"],
+    "descricao": "Um dos maiores batedores de falta da história do futebol brasileiro. Ídolo do time campeão paulista, brasileiro e mundial na virada dos anos 2000.",
+    "foto": "marcelinho.jpeg"
+  },
+  {
+    "slug": "vampeta",
+    "nome": "Vampeta",
+    "posicao": "Volante",
+    "periodo": "1998–2000, 2002–2003 e 2007",
+    "jogos": 268,
+    "titulos": ["Campeonato Brasileiro 1998", "Campeonato Brasileiro 1999", "Campeonato Paulista 1999", "Mundial de Clubes 2000", "Copa do Brasil 2002", "Campeonato Paulista 2003"],
+    "descricao": "Volante de raça e liderança, peça-chave nos títulos brasileiros de 1998 e 1999. Símbolo de identificação com a torcida por sua irreverência, em três passagens diferentes pelo clube.",
+    "foto": "vampeta.jpeg"
+  },
+  {
+    "slug": "ronaldo-fenomeno",
+    "nome": "Ronaldo Fenômeno",
+    "posicao": "Atacante",
+    "periodo": "2009–2011",
+    "titulos": ["Copa do Brasil 2009", "Campeonato Brasileiro 2011"],
+    "descricao": "Um dos maiores jogadores da história do futebol mundial. Sua volta ao Brasil para vestir o Corinthians em 2009 é um dos maiores acontecimentos da história recente do clube. Encerrou a carreira sendo campeão brasileiro em 2011.",
+    "foto": "ronaldo.jpeg"
+  },
+  {
+    "slug": "paulinho",
+    "nome": "Paulinho",
+    "posicao": "Meio-campo",
+    "periodo": "2010–2013",
+    "titulos": ["Copa Libertadores 2012", "Mundial de Clubes 2012", "Campeonato Paulista 2013", "Recopa Sul-Americana 2013"],
+    "descricao": "Peça fundamental do time campeão da Libertadores e do Mundial em 2012, com atuações decisivas nas duas finais. Encerrou sua passagem pelo clube sendo homenageado na final da Recopa de 2013.",
+    "foto": "paulinho.jpeg"
+  },
+  {
+    "slug": "cassio",
+    "nome": "Cássio",
+    "posicao": "Goleiro",
+    "periodo": "2012–2024",
+    "jogos": 712,
+    "titulos": [
+      "Mundial de Clubes 2012",
+      "Copa Libertadores 2012",
+      "Recopa Sul-Americana 2013",
+      "Campeonato Paulista 2013",
+      "Campeonato Brasileiro 2015",
+      "Campeonato Paulista 2017",
+      "Campeonato Brasileiro 2017",
+      "Campeonato Paulista 2018",
+      "Campeonato Paulista 2019"
+    ],
+    "descricao": "Goleiro mais vitorioso da história do Corinthians, com nove títulos conquistados em 712 jogos. Decisivo nas conquistas da Libertadores e do Mundial de 2012, tornou-se um dos maiores capitães da história do clube.",
+    "foto": "cassio.jpeg"
+  },
+  {
+    "slug": "memphis-depay",
+    "nome": "Memphis Depay",
+    "posicao": "Atacante",
+    "periodo": "Desde 2024",
+    "titulos": ["Campeonato Paulista 2025", "Copa do Brasil 2025", "Supercopa do Brasil 2026"],
+    "descricao": "Atacante holandês contratado em setembro de 2024 como reforço de peso internacional. Referência técnica e de liderança no elenco, tornou-se rapidamente um dos jogadores mais queridos pela torcida.",
+    "foto": "memphis_depay.jpeg"
+  }
+]

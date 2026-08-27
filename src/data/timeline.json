@@ -1,0 +1,114 @@
+[
+  {
+    "ano": 1910,
+    "titulo": "Fundação do Corinthians",
+    "descricao": "Fundado em 1º de setembro de 1910 por um grupo de operários no bairro do Bom Retiro, em São Paulo. O nome é inspirado no Corinthian Football Club, time amador inglês que excursionou pelo Brasil no mesmo ano.",
+    "importancia": "fundamental",
+    "categoria": "fundação"
+  },
+  {
+    "ano": 1929,
+    "titulo": "O Bando de Loucos",
+    "descricao": "Time lendário conquista o Campeonato Paulista de forma invicta, com um estilo de jogo à frente do seu tempo. Até hoje é lembrado como um dos maiores times da história do clube.",
+    "importancia": "alta",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 1977,
+    "titulo": "Fim do jejum",
+    "descricao": "Após 22 anos sem conquistar o Campeonato Paulista, o Corinthians é campeão e a torcida toma a Praça da Sé, em São Paulo, na maior festa já vista no futebol brasileiro.",
+    "importancia": "fundamental",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 1982,
+    "titulo": "Democracia Corinthiana",
+    "descricao": "Liderado por Sócrates, Wladimir, Casagrande e Walter Casagrande, o movimento Democracia Corinthiana passa a decidir por votação questões do dia a dia do clube, em plena ditadura militar. Um dos episódios mais importantes da história política do esporte brasileiro.",
+    "importancia": "fundamental",
+    "categoria": "história"
+  },
+  {
+    "ano": 1991,
+    "titulo": "Supercopa do Brasil",
+    "descricao": "O Corinthians vence o Flamengo e conquista a Supercopa do Brasil, título que só voltaria a disputar 35 anos depois.",
+    "importancia": "media",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 1990,
+    "titulo": "Primeiro título brasileiro",
+    "descricao": "O Corinthians conquista pela primeira vez o Campeonato Brasileiro, sob o comando de Nelsinho Baptista.",
+    "importancia": "alta",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 1998,
+    "titulo": "Bicampeonato brasileiro",
+    "descricao": "Com Vanderlei Luxemburgo no comando, o Corinthians vence o Brasileiro de 1998 e repete o título em 1999, sob o comando de Oswaldo de Oliveira.",
+    "importancia": "alta",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2000,
+    "titulo": "Primeiro Mundial",
+    "descricao": "O Corinthians vence o primeiro Mundial de Clubes da FIFA, superando o Vasco da Gama nos pênaltis, no Maracanã lotado.",
+    "importancia": "fundamental",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2007,
+    "titulo": "Rebaixamento",
+    "descricao": "Em uma das temporadas mais sombrias de sua história, o Corinthians é rebaixado para a Série B pela primeira vez.",
+    "importancia": "alta",
+    "categoria": "história"
+  },
+  {
+    "ano": 2009,
+    "titulo": "A volta do Fenômeno",
+    "descricao": "O clube conquista a Copa do Brasil e recebe a volta de Ronaldo Fenômeno ao futebol brasileiro, um dos maiores acontecimentos da década para a torcida.",
+    "importancia": "alta",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2012,
+    "titulo": "Libertadores e Mundial",
+    "descricao": "O ano mais histórico do clube: sob comando de Tite, o Corinthians conquista pela primeira vez a Copa Libertadores da América, contra o Boca Juniors, e em seguida o Mundial de Clubes da FIFA, batendo o Chelsea por 1 a 0.",
+    "importancia": "fundamental",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2013,
+    "titulo": "Tríplice Coroa",
+    "descricao": "O Corinthians vence o São Paulo no Clássico Majestoso e conquista a inédita Recopa Sul-Americana, completando de forma invicta a Tríplice Coroa Internacional (Libertadores, Mundial e Recopa).",
+    "importancia": "alta",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2017,
+    "titulo": "Hepta... e o sexto Brasileiro",
+    "descricao": "Com Fábio Carille no comando, o Corinthians conquista seu sexto título do Campeonato Brasileiro com rodadas de antecedência.",
+    "importancia": "media",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2025,
+    "titulo": "Ano de dois troféus",
+    "descricao": "O Corinthians vence o Palmeiras e conquista o Campeonato Paulista, encerrando um jejum estadual de seis anos, e fecha a temporada tetracampeão da Copa do Brasil sobre o Vasco da Gama.",
+    "importancia": "fundamental",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2026,
+    "titulo": "Supercopa do Brasil",
+    "descricao": "O Corinthians vence o Flamengo por 2 a 0 e conquista a Supercopa do Brasil, na Arena BRB Mané Garrincha, em Brasília.",
+    "importancia": "media",
+    "categoria": "conquista"
+  },
+  {
+    "ano": 2026,
+    "titulo": "Corinthians Almanaque",
+    "descricao": "Nasce este álbum digital, criado para preservar e compartilhar a memória alvinegra: temporadas, títulos, ídolos e grandes momentos, todos em um só lugar.",
+    "importancia": "media",
+    "categoria": "outro"
+  }
+]

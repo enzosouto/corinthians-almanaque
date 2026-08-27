@@ -1,0 +1,288 @@
+[
+  {
+    "ano": 1991,
+    "slug": "1991",
+    "resumo": "O Corinthians vence o Flamengo e conquista a Supercopa do Brasil, disputada apenas nesta edição antes de ficar 35 anos fora de calendário.",
+    "tecnico": "Nelsinho Baptista",
+    "titulos": ["Supercopa do Brasil"],
+    "jogadoresChave": ["Neto", "Ronaldo Giovanelli"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Final: Corinthians 1 x 0 Flamengo, gol de Neto, no Morumbi. O clube estreou o uniforme com a primeira estrela sobre o escudo."
+      }
+    ]
+  },
+  {
+    "ano": 1977,
+    "slug": "1977",
+    "resumo": "Depois de 22 anos sem conquistar o Campeonato Paulista, o Corinthians vence a competição e a torcida faz a maior festa já vista no futebol brasileiro, tomando a Praça da Sé, em São Paulo.",
+    "tecnico": "Oswaldo Brandão",
+    "titulos": ["Campeonato Paulista"],
+    "artilheiro": {
+      "nome": "Geraldão",
+      "gols": 24
+    },
+    "jogadoresChave": ["Zé Maria", "Wladimir", "Basílio", "Vaguinho"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Terceiro jogo da decisão contra a Ponte Preta: o volante Basílio, apelidado depois de 'Pé-de-Anjo', marca o gol do título."
+      }
+    ],
+    "fatosHistoricos": [
+      "Fim do jejum de títulos estaduais iniciado em 1954.",
+      "A comemoração na Praça da Sé é lembrada até hoje como um dos maiores marcos da torcida corintiana."
+    ],
+    "imagem": "corinthians_1977.jpg",
+    "legendaImagem": "Jogador corintiano comemora gol na campanha do título paulista de 1977."
+  },
+  {
+    "ano": 1990,
+    "slug": "1990",
+    "resumo": "O Corinthians conquista o primeiro título do Campeonato Brasileiro de sua história, sob o comando de Nelsinho Baptista.",
+    "tecnico": "Nelsinho Baptista",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Neto",
+      "gols": 9
+    },
+    "jogadoresChave": ["Neto", "Tupãzinho", "Wilson Mano", "Fabinho"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Segundo jogo da final: Corinthians 1 x 0 São Paulo, no Morumbi, gol de Tupãzinho, diante de 100 mil pessoas."
+      }
+    ]
+  },
+  {
+    "ano": 1998,
+    "slug": "1998",
+    "resumo": "Sob o comando de Vanderlei Luxemburgo, o Corinthians conquista o Campeonato Brasileiro com uma campanha de ampla superioridade sobre os adversários.",
+    "tecnico": "Vanderlei Luxemburgo",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Marcelinho Carioca",
+      "gols": 19
+    },
+    "jogadoresChave": ["Rincón", "Marcelinho Carioca", "Vampeta", "Edílson"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Final: Corinthians 2 x 0 Cruzeiro, com gols de Edílson e Marcelinho Carioca, após dois empates nos jogos anteriores da decisão."
+      }
+    ]
+  },
+  {
+    "ano": 1999,
+    "slug": "1999",
+    "resumo": "O Corinthians bicampeona o Campeonato Brasileiro, mantendo boa parte da base do elenco vitorioso do ano anterior, agora sob comando de Oswaldo de Oliveira.",
+    "tecnico": "Oswaldo de Oliveira",
+    "titulos": ["Campeonato Brasileiro"],
+    "jogadoresChave": ["Marcelinho Carioca", "Vampeta", "Rincón", "Edílson"]
+  },
+  {
+    "ano": 2000,
+    "slug": "2000",
+    "resumo": "O Corinthians vence o primeiro Mundial de Clubes da FIFA, superando o Vasco da Gama nos pênaltis por 4 a 3, no Maracanã lotado, após empate sem gols no tempo normal e na prorrogação.",
+    "tecnico": "Oswaldo de Oliveira",
+    "titulos": ["Mundial de Clubes"],
+    "jogadoresChave": ["Dida", "Edílson", "Vampeta", "Marcelinho Carioca", "Rincón"],
+    "fatosHistoricos": [
+      "Primeira edição do torneio organizado pela FIFA reunindo os campeões continentais.",
+      "Edílson foi eleito a Bola de Ouro da final."
+    ],
+    "imagem": "mundial_2000.jpeg",
+    "legendaImagem": "Edilson ergue a taça do Mundial de Clubes de 2000, ao lado do então presidente da FIFA, Joseph Blatter.",
+    "galeria": [
+      {
+        "imagem": "mundial_2000_2.jpeg",
+        "legenda": "Corinthians e Vasco da Gama entram em campo no Maracanã para a final do primeiro Mundial de Clubes da FIFA."
+      }
+    ]
+  },
+  {
+    "ano": 2005,
+    "slug": "2005",
+    "resumo": "Com o polêmico apoio financeiro da empresa MSI, o Corinthians conquista o Campeonato Brasileiro em uma temporada marcada tanto pelos resultados em campo quanto pelas controvérsias fora dele.",
+    "tecnico": "Antônio Lopes",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Carlos Tevez",
+      "gols": 20
+    },
+    "jogadoresChave": ["Carlos Tevez", "Roger", "Carlos Alberto"],
+    "fatosHistoricos": [
+      "A equipe teve três técnicos na temporada: Daniel Passarela, Márcio Bittencourt e Antônio Lopes, que fechou a campanha vitoriosa.",
+      "Carlos Tevez foi eleito o melhor jogador da competição."
+    ]
+  },
+  {
+    "ano": 2007,
+    "slug": "2007",
+    "resumo": "A temporada mais sombria da história recente do clube: o Corinthians é rebaixado para a Série B pela primeira vez em sua trajetória.",
+    "tecnico": "Paulo César Carpegiani e Zé Augusto",
+    "jogadoresChave": ["Marinho", "Amoroso", "Vampeta", "Magrão"],
+    "fatosHistoricos": [
+      "Primeiro e único rebaixamento do clube ao segundo nível do futebol brasileiro.",
+      "O time terminou na 17ª colocação, um ponto atrás do Goiás, que escapou do rebaixamento."
+    ]
+  },
+  {
+    "ano": 2008,
+    "slug": "2008",
+    "resumo": "O Corinthians vence a Série B e garante retorno imediato à elite do futebol brasileiro.",
+    "tecnico": "Mano Menezes",
+    "titulos": ["Campeonato Brasileiro Série B"],
+    "jogadoresChave": ["Vampeta", "Carlos Alberto", "Lulinha", "Clodoaldo"]
+  },
+  {
+    "ano": 2009,
+    "slug": "2009",
+    "resumo": "Ano de reconstrução: o Corinthians conquista a Copa do Brasil e recebe de volta ao futebol brasileiro Ronaldo Fenômeno, um dos maiores jogadores da história do esporte.",
+    "tecnico": "Mano Menezes",
+    "titulos": ["Copa do Brasil"],
+    "jogadoresChave": ["Ronaldo Fenômeno", "André Santos", "Jorge Henrique", "Dentinho", "Chicão"],
+    "fatosHistoricos": [
+      "A equipe teve cinco artilheiros empatados na competição, com 3 gols cada: André Santos, Chicão, Dentinho, Jorge Henrique e Ronaldo."
+    ],
+    "imagem": "copa_do_brasil_2009.jpeg",
+    "legendaImagem": "Dentinho e Ronaldo Fenômeno comemoram o título da Copa do Brasil de 2009 no vestiário."
+  },
+  {
+    "ano": 2011,
+    "slug": "2011",
+    "resumo": "Sob comando de Tite, o Corinthians conquista o Campeonato Brasileiro na temporada de despedida de Ronaldo dos gramados.",
+    "tecnico": "Tite",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Liédson",
+      "gols": 12
+    },
+    "jogadoresChave": ["Ronaldo Fenômeno", "Alessandro", "Danilo", "Liédson"],
+    "fatosHistoricos": [
+      "Sócrates faleceu no mesmo dia em que o Corinthians se sagrou campeão, e foi homenageado pelos jogadores em campo."
+    ]
+  },
+  {
+    "ano": 2012,
+    "slug": "2012",
+    "resumo": "O ano mais histórico do clube: o Corinthians conquista pela primeira vez a Copa Libertadores da América e, na sequência, o Mundial de Clubes da FIFA, superando o Chelsea.",
+    "tecnico": "Tite",
+    "titulos": ["Copa Libertadores da América", "Mundial de Clubes"],
+    "artilheiro": {
+      "nome": "Paulinho"
+    },
+    "jogadoresChave": ["Cássio", "Paulinho", "Emerson Sheik", "Guerrero", "Alessandro"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Final da Libertadores (volta): Corinthians 2 x 0 Boca Juniors, no Pacaembu, com dois gols de Emerson Sheik, após empate em 1 a 1 na Bombonera. Título inédito."
+      },
+      {
+        "descricao": "Final do Mundial de Clubes: Corinthians 1 x 0 Chelsea, gol de Paolo Guerrero, no Estádio Internacional de Yokohama."
+      }
+    ],
+    "fatosHistoricos": [
+      "Emerson Sheik foi o artilheiro da campanha da Libertadores, com 5 gols; Paulinho terminou como maior artilheiro do Corinthians somando todas as competições da temporada."
+    ],
+    "imagem": "mundial_2012.jpeg",
+    "legendaImagem": "Elenco corintiano comemora o título do Mundial de Clubes de 2012.",
+    "galeria": [
+      {
+        "imagem": "libertadores_2012.jpeg",
+        "legenda": "Elenco ergue a taça da Copa Libertadores da América de 2012."
+      }
+    ]
+  },
+  {
+    "ano": 2013,
+    "slug": "2013",
+    "resumo": "O Corinthians conquista o Campeonato Paulista e, no clássico contra o São Paulo, a inédita Recopa Sul-Americana — completando de forma invicta a Tríplice Coroa Internacional (Libertadores, Mundial e Recopa).",
+    "tecnico": "Tite",
+    "titulos": ["Campeonato Paulista", "Recopa Sul-Americana"],
+    "jogadoresChave": ["Danilo", "Paulinho", "Guerrero", "Renato Augusto", "Romarinho"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Recopa Sul-Americana (ida): São Paulo 1 x 2 Corinthians, no Morumbi, com gols de Guerrero e Renato Augusto."
+      },
+      {
+        "descricao": "Recopa Sul-Americana (volta): Corinthians 2 x 0 São Paulo, no Pacaembu, com gols de Romarinho e Danilo. Placar agregado de 4 a 1."
+      }
+    ],
+    "fatosHistoricos": [
+      "Danilo foi eleito o melhor jogador da final da Recopa.",
+      "A final marcou a despedida de Paulinho do clube."
+    ]
+  },
+  {
+    "ano": 2015,
+    "slug": "2015",
+    "resumo": "Novamente sob comando de Tite, o Corinthians conquista seu sexto título do Campeonato Brasileiro, com uma sequência de 17 jogos de invencibilidade, a maior da competição naquela edição.",
+    "tecnico": "Tite",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Ricardo Oliveira",
+      "gols": 20
+    },
+    "jogadoresChave": ["Cássio", "Fagner", "Renato Augusto", "Jadson", "Vagner Love"],
+    "fatosHistoricos": [
+      "Renato Augusto foi eleito o melhor jogador do campeonato (Bola de Prata e Craque do Brasileirão).",
+      "O time teve o melhor ataque (71 gols) e a defesa menos vazada (31 sofridos) da competição."
+    ],
+    "imagem": "brasileirao_2015.jpeg",
+    "legendaImagem": "Elenco corintiano comemora o título do Campeonato Brasileiro de 2015."
+  },
+  {
+    "ano": 2017,
+    "slug": "2017",
+    "resumo": "Com Fábio Carille no comando, o Corinthians conquista o Campeonato Brasileiro com rodadas de antecedência para o fim da competição.",
+    "tecnico": "Fábio Carille",
+    "titulos": ["Campeonato Brasileiro"],
+    "artilheiro": {
+      "nome": "Jô",
+      "gols": 18
+    },
+    "jogadoresChave": ["Cássio", "Fagner", "Balbuena", "Jadson", "Jô"],
+    "fatosHistoricos": [
+      "Jô se tornou o primeiro jogador da história do Corinthians a ser artilheiro isolado do Campeonato Brasileiro."
+    ],
+    "imagem": "brasileirao_2017.jpeg",
+    "legendaImagem": "Cássio ergue a taça do Campeonato Brasileiro de 2017 sob a festa da torcida."
+  },
+  {
+    "ano": 2025,
+    "slug": "2025",
+    "resumo": "Temporada de dois troféus: o Corinthians vence o Palmeiras e conquista o Campeonato Paulista, encerrando um jejum estadual de seis anos, e fecha o ano sendo tetracampeão da Copa do Brasil sobre o Vasco da Gama.",
+    "tecnico": "Ramón Díaz (Paulista) e Dorival Júnior (Copa do Brasil)",
+    "titulos": ["Campeonato Paulista", "Copa do Brasil"],
+    "artilheiro": {
+      "nome": "Talles Magno e Yuri Alberto",
+      "gols": 5
+    },
+    "jogadoresChave": ["Hugo Souza", "Yuri Alberto", "Memphis Depay", "Rodrigo Garro"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Final da Copa do Brasil (ida): Corinthians 0 x 0 Vasco da Gama, na Neo Química Arena."
+      },
+      {
+        "descricao": "Final da Copa do Brasil (volta): Vasco da Gama 1 x 2 Corinthians, no Maracanã. O goleiro Hugo Souza foi eleito o melhor jogador e o melhor goleiro da competição."
+      }
+    ],
+    "fatosHistoricos": [
+      "Ramón Díaz foi demitido em abril, meses depois de vencer o Paulista, e Dorival Júnior assumiu o time em seguida."
+    ],
+    "imagem": "copa_do_brasil_2025.jpg",
+    "legendaImagem": "Elenco corintiano comemora o título da Copa do Brasil de 2025."
+  },
+  {
+    "ano": 2026,
+    "slug": "2026",
+    "resumo": "O Corinthians vence o Flamengo por 2 a 0 e conquista a Supercopa do Brasil (Supercopa Rei Superbet 2026), na Arena BRB Mané Garrincha, em Brasília, sob comando de Dorival Júnior.",
+    "tecnico": "Dorival Júnior",
+    "titulos": ["Supercopa do Brasil"],
+    "jogadoresChave": ["Breno Bidon", "Gabriel Paulista", "Yuri Alberto", "Hugo Souza"],
+    "jogosMarcantes": [
+      {
+        "descricao": "Final: Corinthians 2 x 0 Flamengo, gols de Gabriel Paulista e Yuri Alberto. Breno Bidon foi eleito o melhor jogador da partida."
+      }
+    ],
+    "imagem": "supercopa_do_brasil_2026.jpg",
+    "legendaImagem": "Elenco corintiano comemora o título da Supercopa do Brasil de 2026, em Brasília."
+  }
+]
