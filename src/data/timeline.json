@@ -84,10 +84,17 @@
     "categoria": "conquista"
   },
   {
+    "ano": 2015,
+    "titulo": "Sexto título brasileiro",
+    "descricao": "Sob o comando de Tite, o Corinthians conquista o Campeonato Brasileiro pela sexta vez, exibindo um dos ataques mais eficientes da competição.",
+    "importancia": "fundamental",
+    "categoria": "conquista"
+  },
+  {
     "ano": 2017,
-    "titulo": "Hepta... e o sexto Brasileiro",
-    "descricao": "Com Fábio Carille no comando, o Corinthians conquista seu sexto título do Campeonato Brasileiro com rodadas de antecedência.",
-    "importancia": "media",
+    "titulo": "Hepta... e o sétimo Brasileiro",
+    "descricao": "Com Fábio Carille no comando, o Corinthians conquista seu sétimo título do Campeonato Brasileiro com rodadas de antecedência.",
+    "importancia": "fundamental",
     "categoria": "conquista"
   },
   {
