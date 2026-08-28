@@ -86,6 +86,17 @@
     "foto": "paulinho.jpeg"
   },
   {
+    "slug": "renato-augusto",
+    "nome": "Renato Augusto",
+    "posicao": "Meio-campo",
+    "periodo": "2013–2016 e 2021–2023",
+    "jogos": 243,
+    "gols": 30,
+    "titulos": ["Campeonato Paulista 2013", "Recopa Sul-Americana 2013", "Campeonato Brasileiro 2015"],
+    "descricao": "Camisa 8 de talento refinado, foi peça-chave na Tríplice Coroa de 2013 e no hexacampeonato brasileiro de 2015, quando foi eleito o melhor jogador do Campeonato Brasileiro. Voltou ao clube em 2021 para uma segunda passagem antes de se aposentar, em 2025, sendo homenageado pela torcida como um dos maiores ídolos recentes.",
+    "foto": "renato_augusto.jpg"
+  },
+  {
     "slug": "cassio",
     "nome": "Cássio",
     "posicao": "Goleiro",
